@@ -1,0 +1,16 @@
+Termuxu açýp bu komutlarý sýrasýyla yazin
+
+
+pkg update
+
+pkg install git
+
+pkg install python
+
+git clone https://github.com/sundowndev/PhoneInfoga
+
+cd PhoneInfoga
+
+chmod 777 *
+
+python3 phoneinfoga.py -n +90[NUMARAYI +9055 SEKLINDE YAZIN.]

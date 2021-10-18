@@ -1,0 +1,18 @@
+Size elimden geldiðince Spam'a düþme þansýnýn az olduðu ve Phishing yöntemlerinde kullanabileceðiniz bir yöntem vereceðim. Eðer bu taktik veya buna benzer bir þey paylaþýldý ise özür dilerim.
+
+ 
+
+-Ýlk olarak kendimize bir E-mail açalým. En basitinden clashofclanshelp@X.com veya destekinstagram_tr@X.com ismini verebiliriz ki sahte olduðu çok belli olmasýn.
+
+ 
+
+-Ýkinci olarak kurbanýn E-mail adresine linksiz, sade fakat inandýrýcý bir E-posta gönderelim.
+Örnek: Hesabýnýzda Olaðandýþý Giriþ Denemeleri Tespit Edildi gibi bir baþlýk atalým. Altýna ise "Doðrulama linkiniz baþka bir mail ile gönderilmiþtir" diyebiliriz. Fakat ne olur ne olmaz diye bu postaya "Eðer mail gözükmezse biraz bekleyin ve 'Spam' kutusunu kontrol edin" diye yazabiliriz.
+
+ 
+
+-Bu ilk maili attýktan sonra asýl ikinci, içinde linkimizi içeren mailimizi atýyoruz. Eðer kiþi, ilk postayý açtýysa ve biz ikinci postayý bundan sonra gönderirsek Spam'a düþmeden direk ana ekrana geliyor.
+
+ 
+
+-Eðer açmadan gönderirsek bazý durumlarda Spam'a, bazen ise ana ekrana geliyor. Bunun algoritmasýný ne yazýk ki çözemedim. Fakat yine de uzun süre boyunca deneyip en az spam olasýlýðý olan yöntem bunu buldum.

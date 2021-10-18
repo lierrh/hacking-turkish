@@ -1,0 +1,15 @@
+SOSYAL MEDYA KÝÞÝ ARAÞTIRMA
+Alttan vereceðim linkten indirin
+ 
+git clone https://github.com/thelinuxchoice/userrecon.git
+ 
+cd deyip masaüstümüze geçip yapalým
+Çalýþtýrmak için
+
+cd userrecon
+chmod +x userrecon.sh
+ 
+./userrecon.sh
+
+Bir kullanýcý adý verelim verdiðiniz kullanýcýdan hangi sosyal medya hesabý açýlmýþ karþýmýza
+onu çýkarýyor sosyal medyada bir kiþiyi araþtýrcaksanýz bu iþinize yarýyabilir belki bir çok kiþiyi biliyordur ama yine de paylaþayým dedim.

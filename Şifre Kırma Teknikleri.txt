@@ -1,0 +1,19 @@
+1- DICTIONARY ATTACK (SÖZLÜK SALDIRISI)
+Bu saldýrý yöntemimiz en kolay yöntemdir.
+Nasýl yapýldýðý az çok adýndan da belli olduðu gibi sözcükleri toplayýp hepsini deniyoruz. Günümüzde ki þifreleri kýrmasý pek kolay deðildir ama kolay þifreleri kýrabilirsiniz.
+
+
+2- BRUTE FORCE (KABA KUVVET)
+Bu saldýrýda saldýrgan mümkün olan her karakter kombinasyonunu kullanarak saldýrýlarýna devam edecektir. Girilen þifreler, karmaþýklýk kurallarýndan olmalýdýr. ör. Ör. bir büyük harf, bir alt harf, Pi ondalýklarý gibi. En az 8 haneli ve karakterler içermelidir.
+Yani þifrenizin ne kadar karmaþýk olursa kýrmasý o kadar uzun sürer.(yýllar bile sürebilir.)
+ÞÝFRE NE KADAR KARMAÞIK OLURSA KIRMASIDA O KADAR ZOR OLUR
+
+3- KEYLOGGER
+Keylogger, bilgisayar klavyesinde bastýðýnýz her tuþu klavye üzerinde yaptýðýnýz her iþlemi kayýt ederek hedeflenen kiþiye gönderir. Sizin bundan haberiniz dahi olmaz. Çok tehlikeli bir yoldur. Þifrelerinizin yanýnda yaptýðýnýz tüm özel yazýþmalarda ele geçirilir.Bundan korunmak için antivürüs programý edinin ve sýk sýk tarama yapýn.Þifrenizi An Meselesi
+
+
+4- SOSYAL MÜHENDÝSLÝK
+Bu konu üzerinde çok fazla durmayacaðým çünkü bu konu forum sayfamýzda bulunuyor.
+Ama tabi ki bahsetmeden geçmek olmaz. Sosyal mühendislik bir cihaz ile yapýlmaz bunu siz yaparsýnýz. Sosyal mühendislik bir kandýrma sanatýdýr.
+BUNA KANMAK VEYS KANMAMAK SÝZÝN ELÝNÝZDE
+En çok kullanýlan teknikleri açýkladým. MÝSYONA göre hareket ediniz.
