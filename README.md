@@ -1,2 +1,2 @@
 # Hacking-Turkish
-### Zip Olarak İndirip Dosyaları Okuyabilirsiniz ###
+### zip olarak indirip dosyaları okuyabilirsiniz ###
